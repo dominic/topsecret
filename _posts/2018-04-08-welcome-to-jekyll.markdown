@@ -1,25 +1,16 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Our comments on Priorities Resolutions"
 date:   2018-04-08 16:40:08 -0700
-categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+We've submitted the following comment as feedback to the authors of each priorities resolution:
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+> We offer the following suggestions, and hope you'll strongly consider incorporating these additions in your final priorities resolution:
+>
+> East Bay DSA will resolve to hold monthly general meetings at a regular time and location, such that members can plan to attend far in advance, and organizers can spend less time securing venues and turning out members. Through monthly meetings, the chapter will grow its ability to make decisions rapidly and thoughtfully, address issues urgent to the working class, and build solidarity among members by coming together regularly as a large body.
+>
+> East Bay DSA will establish an internal, democratically-controlled forum for communication in the organization, with the goal of replacing corporate platforms and facilitating the productive exchange and development of ideas in our organization. The forum will protect the security of members’ personal information.
+> Please feel free to reach out if you have questions or would like to discuss further.
+>
+> In solidarity, Dominic and Aaron
