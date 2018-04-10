@@ -4,7 +4,7 @@ title:  "Candidate Statement: Aaron Hall"
 date:   2018-04-10 14:00:00 -0700
 ---
 
-I am excited to be officially announcing my candidacy for the Steering Committee elections this month for a position as an at-large member. I am part of the Open EBDSA micro-slate with Dominic Dagradi. Our vision and our policies are online at [http://openEBDSA.org](http://openEBDSA.org).
+I am excited to be officially announcing my candidacy for the Steering Committee elections this month for a position as an at-large member. I am part of the Open EBDSA micro-slate with Dominic Dagradi.
 
 I came to EBDSA in August of last year as a result of my experiences organizing my workplace to unionize over the preceding two years. In that time, through much difficult learning by experience and study, I was able to build coworkers’ confidence, identify organic leaders, form and lead an organizing committee, get supermajority participation rates in all actions, build city and county political support, form a bargaining committee, and get consensus on a whole host of issues important to my coworkers and myself as a collective unit.
 
