@@ -27,3 +27,10 @@ $color-primary-link: $magenta !default;
   border-radius: 50%;
   width: 150px;
 }
+
+.prose blockquote {
+  p {
+    font-size: 20px;
+  }
+  margin-left: 20px;
+}
