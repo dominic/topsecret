@@ -17,7 +17,7 @@ title: Open EBDSA
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   We are a micro-slate of candidates for the Steering Committee of East Bay DSA,
-  committed to fostering a true multi-tendency democracy in EBDSA.
+  committed to fostering in the organization a true multi-tendency democracy.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com

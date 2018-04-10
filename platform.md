@@ -26,13 +26,16 @@ The improvement of our **website**, and the establishment of a single, effective
 
 1.  Concerning the forum, we reject dependence on corporate platforms, which thrive on acrimony, sell our data for ad money, and are clearly opposed to the goals and values of socialism. We also believe that our chapter has the technical know-how and heightened engagement to make such a forum feasible. We propose that the forum
 
-    1.  Allow members to participate in comradely discussion with each other
-    1.  Provide space for focused and/or facilitated political conversation
-    1.  Be a place to organize chapter campaigns in a place where new members can get involved
+    1.  Lower the barriers for members to reaching other members with their ideas
+    1.  Be a place to organize chapter and member-driven campaigns and draw new
+        members into their work
+    1.  Provide a platform where members can discuss and debate politics without
+        incentives for conflict and spectacle, and where members can control
+        how they want to engage
 
 ## Three
 
-**A new culture of leadership**, which embodies humility before our membership, the larger public, and our historic task. Our officers serve as conduits and advocates for new ideas into the leadership circle, so that they might be debated openly and considered by the entire membership. To this end we pledge
+**A new culture of leadership**, which embodies humility before our membership, the larger public, and our historic task. Our officers will serve as conduits and advocates for new ideas into the leadership circle, so that they might be debated openly and considered by the entire membership. To this end we pledge
 
 1.  To grant fair hearing to ideas even if we ourselves are skeptical - in doing so, we demonstrate trust in the membership as the guiding light of the organization.
 1.  To build and retain robust ties to different currents within the membership, and thereby resist the bunker mentalities and echo chambers that have rendered past socialist organizations marginal and ineffective.

@@ -4,7 +4,7 @@ title: About Open EBDSA
 permalink: /about/
 ---
 
-Open EBDSA is a micro-slate of candidates for the Steering Committee of East Bay DSA, committed to fostering a true multi-tendency democracy in EBDSA. This entails collective decision making, open communication between membership and leadership, and clear avenues for new and minority views to be aired, debated and, with successful organizing on the part of their supporters, executed by our members. The slate is composed of:
+We are a micro-slate of candidates for the Steering Committee of East Bay DSA, committed to fostering in the organization a true multi-tendency democracy. This entails collective decision making, open communication between membership and leadership, and clear avenues for new and minority views to be aired, debated and, with successful organizing on the part of their supporters, executed by our members. The slate is composed of:
 
 * **Dominic Dagradi**, Communications Secretary
 * **Aaron Hall**, At-large member
