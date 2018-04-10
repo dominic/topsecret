@@ -19,15 +19,16 @@ The establishment of **monthly, high-functioning General Meetings** by the end o
 The improvement of our **website**, and the establishment of a single, effective and **democratically-controlled forum** for communication within the organization
 
 1.  Concerning our website, we propose adding
-    1.  A single page for all active petitions
-    1.  A space for for-and-against statements by members on important issues
+
+    1.  An events calendar that allows members to submit and view unofficial events
     1.  Plain-language guides to participating in General Meetings
     1.  Templates for members to compose their own resolutions and amendments
+
 1.  Concerning the forum, we reject dependence on corporate platforms, which thrive on acrimony, sell our data for ad money, and are clearly opposed to the goals and values of socialism. We also believe that our chapter has the technical know-how and heightened engagement to make such a forum feasible. We propose that the forum
 
-    1.  --
-    1.  --
-    1.  --
+    1.  Allow members to participate in comradely discussion with each other
+    1.  Provide space for focused and/or facilitated political conversation
+    1.  Be a place to organize chapter campaigns in a place where new members can get involved
 
 ## Three
 
