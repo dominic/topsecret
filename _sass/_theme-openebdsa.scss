@@ -19,3 +19,11 @@ $color-primary-link: $magenta !default;
 
 // Import sass partials (used in all themes)
 @import 'variables', 'base', 'components', 'utilities';
+
+.profile {
+}
+
+.photo {
+  border-radius: 50%;
+  width: 150px;
+}
