@@ -10,7 +10,7 @@ We believe that our policy should come from below. This is not a sentimental pos
 
 The establishment of **monthly, high-functioning General Meetings** by the end of our term
 
-1.  These will be held at a regular time and location, such that members can plan to attend far in advance, and organizers can spend less time securing venues and turning out members.
+1.  These will be held at a regular time and location, at a venue as accessible as possible, such that members can plan to attend far in advance, and organizers can spend less time securing venues and turning out members.
 1.  Through monthly meetings, the chapter will grow its ability to make decisions rapidly and thoughtfully, address issues urgent to the working class, and build solidarity among members by coming together regularly as a large body.
 1.  These will be planned and executed by a Meetings committee, composed of a diverse group of members and leaders, with the goal of beginning within six months.
 
