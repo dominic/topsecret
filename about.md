@@ -22,5 +22,27 @@ We do not know what that progress will look like – the path to socialism canno
 We welcome and support all candidates who share our vision. We look forward to discussing this in more detail over the coming weeks as we publish candidate statements and supporting articles for the priorities detailed above.
 
 In solidarity,<br>
+<strong>
 Dominic<br>
 Aaron
+</strong>
+
+And in support,<br>
+<strong>
+Ahmed K.<br>
+Katie H.<br>
+Joey K.<br>
+John O.<br>
+Ivana M.<br>
+Andy C.<br>
+Liz F. (former member)<br>
+Maia A.<br>
+Jeff L.<br>
+Beki C.<br>
+Emily C.<br>
+Khawer K.<br>
+Angie A.<br>
+Miranda E.<br>
+Rosa A.<br>
+Kate M.<br>
+</strong>
