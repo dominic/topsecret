@@ -60,23 +60,36 @@
         </div>
       </div>
 
-      <div class="container mx-auto px-2 py-4 clearfix">
+      <div class="container mx-auto px-2 mt-3 py-1 clearfix">
         <h3 class="border-bottom-thin py-1 mb-3">About Open EBDSA</h3>
-        <div class="profile col-9 sm-width-full left">
+        <div class="profile col-6 sm-width-full left">
+          <div class="mr-4">
+            <p>
+              Open EBDSA is committed to fostering a true multi-tendency
+              democracy in EBDSA. This entails collective decision making, open
+              communication between membership and leadership, and clear avenues
+              for new and minority views to be aired, debated and, with successful
+              organizing on the part of their supporters, executed by our members.
+            </p>
+            <h4><a class="text-accent" href="/about">Why we're running »</a></h4>
+            <h4><a class="text-accent" href="/platform">Our platform »</a></h4>
+          </div>
+        </div>
+        <div class="profile col-5 sm-width-full left">
           <p>
-            Open EBDSA is committed to fostering a true multi-tendency
-            democracy in EBDSA. This entails collective decision making, open
-            communication between membership and leadership, and clear avenues
-            for new and minority views to be aired, debated and, with successful
-            organizing on the part of their supporters, executed by our members.
-          </p>
-          <h4><a class="text-accent" href="/about">Why we're running »</a></h4>
-          <h4><a class="text-accent" href="/platform">Our platform »</a></h4>
-
+            Like our platform? Let us know and we'll add your name to our
+            list of supporters.</p>
+          <div class="cognito">
+            <script src="https://services.cognitoforms.com/s/mNyDBncg5kSaVz_xpkNAKg"></script>
+            <script>Cognito.load("forms", { id: "1" });</script>
+          </div>
         </div>
       </div>
 
-      <div class="container mx-auto px-2 py-4">
+      <div class="container mx-auto px-2 clearfix">
+      </div>
+
+      <div class="container mx-auto px-2 py-3">
         <h3 class='border-bottom-thin py-1'>Updates</h3>
         {% for post in site.posts %}
           {% include post_block.html %}

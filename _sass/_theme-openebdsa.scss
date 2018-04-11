@@ -34,3 +34,19 @@ $color-primary-link: $magenta !default;
   }
   margin-left: 20px;
 }
+
+.cognito {
+  margin-left: -5px;
+}
+.cognito > div,
+.cognito > div a {
+  height: 0;
+  position: fixed;
+  left: -9999px;
+}
+.cognito .c-span-24 .c-span-12 {
+  width: 100%;
+}
+.cognito .c-forms-heading .c-forms-form-title {
+  padding-top: 0 !important;
+}
