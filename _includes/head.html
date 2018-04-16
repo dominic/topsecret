@@ -4,8 +4,24 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <meta property="og:image" content="http://openebdsa.org/assets/img/fb.png" />
-  <meta property="og:title" content="Open EBDSA - Convention 2018 Slate" />
-  <meta property="og:url" content="http://openebdsa.org" />
+  {% if page.title %}
+    <meta content="{{ page.title }}" property="og:title">
+  {% else %}
+    <meta content="Open EBDSA - Convention 2018 Slate" property="og:title">
+  {% endif %}
+  {% if page.title %}
+    <meta content="article" property="og:type">
+  {% else %}
+    <meta content="website" property="og:type">
+  {% endif %}
+  {% if page.url %}
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" >
+  {% endif %}
+  {% if page.description %}
+    <meta content="{{ page.description }}" property="og:description">
+  {% else %}
+    <meta content="{{ site.description }}" property="og:description">
+  {% endif %}
   <meta property="og:site_name" content="Open EBDSA" />
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
