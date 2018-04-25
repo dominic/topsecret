@@ -6,6 +6,8 @@ class:  small-title
 previewImg: working-class.jpg
 ---
 
+![]({{ "/assets/img/working-class.jpg" }})
+
 ## By Aaron Hall
 
 A few weeks ago, I posted both long and short-form candidate statements to the group here outlining my background and experience both inside and outside EBDSA which underscored my principles to organizing as well as my general orientation to advancing socialism in 2018 America. Doubtless, lots of have seen the website for the Open EBDSA slate which I’m part of with Dominic Dagradi and others got to hear a few of my positions at the candidate forum this past weekend. This week, I’d like to explain in a little more detail my current stances towards socialist strategy and tactics in the hopes of giving a stronger delineation of myself as a candidate. While I am running on the Open EBDSA micro-slate, the positions shared here are not official platform positions though they do relate as natural and particular extensions of them.
