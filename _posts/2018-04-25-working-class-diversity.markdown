@@ -4,6 +4,7 @@ title:  "Working Class Diversity and the Importance of Direct Collective Confron
 date:   2018-04-25 12:00:00 -0700
 class:  small-title
 previewImg: working-class.jpg
+excerpt:  From Aaron: more detail about my current stances towards socialist strategy and tactics in the hopes of giving a stronger delineation of myself as a candidate
 ---
 
 ![]({{ "/assets/img/working-class.jpg" }})
