@@ -3,6 +3,7 @@ layout: post
 title:  "Working Class Diversity and the Importance of Direct Collective Confrontations"
 date:   2018-04-25 12:00:00 -0700
 class:  small-title
+previewImg: working-class.jpg
 ---
 
 ## By Aaron Hall
