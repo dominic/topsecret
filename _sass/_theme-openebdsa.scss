@@ -50,3 +50,21 @@ $color-primary-link: $magenta !default;
 .cognito .c-forms-heading .c-forms-form-title {
   padding-top: 0 !important;
 }
+.small-title h1 {
+  font-size: 50px;
+}
+
+@media (min-width: 52em) {
+  .small-title h1 {
+    font-size: 70px;
+  }
+}
+
+article a {
+  color: $red;
+}
+
+.prose hr {
+  margin: 50px 0;
+  color: #ccc;
+}
