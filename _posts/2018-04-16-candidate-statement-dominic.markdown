@@ -2,6 +2,7 @@
 layout: post
 title:  "Candidate Statement: Dominic Dagradi"
 date:   2018-04-16 12:00:00 -0700
+previewImg: dom.jpg
 ---
 
 Hi there 👋 I'm excited to be running for Communications Secretary of the East Bay DSA Steering Committee. I'm an appointed external organizer in EBDSA, working on our single-payer and electoral campaigns, and work as a software engineer during the day. I’m running on the Open EBDSA (openEBDSA.org) micro-slate with Aaron Hall, and I'd love to share a little about my vision for our chapter in the coming year.
