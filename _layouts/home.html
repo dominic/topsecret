@@ -34,13 +34,20 @@
         </div>
       </header>
 
+      <div class="container mx-auto px-2 py-3">
+        <h3 class='border-bottom-thin py-1'>Posts and Updates</h3>
+        {% for post in site.posts %}
+          {% include post_block.html %}
+        {% endfor %}
+      </div>
+
       <div class="container mx-auto px-2 py-4 clearfix">
         <h3 class="border-bottom-thin py-1">Who we are</h3>
         <div class="profile col-6 sm-width-full left">
           <div class="mr-4">
             <img src="{{ "assets/img/dom.jpg" }}" class="photo mt-3">
             <h2 class="mt-0">Dominic Dagradi</h2>
-            <p><strong>Running for Communications Secretary</strong></p>
+            <p><strong>Communications Secretary</strong></p>
             <p>
               Neighborhood organizer focused on facilitating clear communication
               between leadership and membership, and building democratic platforms
@@ -51,48 +58,13 @@
         <div class="profile col-5 sm-width-full left">
           <img src="{{ "assets/img/aaron.jpg" }}" class="photo mt-3">
           <h2 class="mt-0">Aaron Hall</h2>
-          <p><strong>Running for At-Large Member</strong></p>
+          <p><strong>At-Large Member</strong></p>
           <p>
             Rank-and-file labor organizer dedicated to building chapter activity
             in organized labor and broadening our base in a diverse working
             class in service of an independent mass political party.
           </p>
         </div>
-      </div>
-
-      <div class="container mx-auto px-2 mt-3 py-1 clearfix">
-        <h3 class="border-bottom-thin py-1 mb-3">About Open EBDSA</h3>
-        <div class="profile col-6 sm-width-full mb-3 left">
-          <div class="mr-4">
-            <p>
-              Open EBDSA is committed to fostering a true multi-tendency
-              democracy in EBDSA. This entails collective decision making, open
-              communication between membership and leadership, and clear avenues
-              for new and minority views to be aired, debated and, with successful
-              organizing on the part of their supporters, executed by our members.
-            </p>
-            <h4><a class="text-accent" href="/about">Why we're running »</a></h4>
-            <h4><a class="text-accent" href="/platform">Our platform »</a></h4>
-          </div>
-        </div>
-        <div class="profile col-5 sm-width-full left">
-          <p>
-            Like our platform? Let us know <3</p>
-          <div class="cognito">
-            <script src="https://services.cognitoforms.com/s/mNyDBncg5kSaVz_xpkNAKg"></script>
-            <script>Cognito.load("forms", { id: "1" });</script>
-          </div>
-        </div>
-      </div>
-
-      <div class="container mx-auto px-2 clearfix">
-      </div>
-
-      <div class="container mx-auto px-2 py-3">
-        <h3 class='border-bottom-thin py-1'>Updates</h3>
-        {% for post in site.posts %}
-          {% include post_block.html %}
-        {% endfor %}
       </div>
 
     </div>
